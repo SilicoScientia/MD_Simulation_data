@@ -1,0 +1,143 @@
+*  ---- 
+* Built RTF for lig_corr_0.mol2
+*    by user SwissParam     Fri 04 Jul 2025 18:10:55 CEST
+* ---- 
+*
+
+ATOMS
+MASS    -1 HCMM   1.007940
+MASS    -1 HNCO   1.007940
+MASS    -1 CB    12.011000
+MASS    -1 C=C   12.011000
+MASS    -1 C=O   12.011000
+MASS    -1 OR    15.999400
+MASS    -1 O=C   15.999400
+MASS    -1 NC=O  14.006700
+MASS    -1 CLMM  35.452700
+MASS    -1 CR    12.011000
+
+BONDS
+HCMM CB    381.853     1.0840 
+CB   CB    401.068     1.3740 
+CB   C=C   360.335     1.4490 
+CB   OR    404.019     1.3760 
+HCMM C=C   372.066     1.0830 
+C=C  C=C   684.039     1.3330 
+C=C  C=O   328.526     1.4680 
+C=O  OR    417.476     1.3550 
+C=O  O=C   931.963     1.2220 
+CB   C=O   322.985     1.4570 
+C=O  NC=O  419.491     1.3690 
+HNCO NC=O  479.511     1.0150 
+NC=O CB    394.519     1.3950 
+CB   CLMM  243.102     1.7210 
+OR   CR    363.214     1.4180 
+HCMM CR    342.991     1.0930 
+
+ANGLES
+HCMM CB   CB     40.517    120.5710 
+CB   CB   CB     48.145    119.9770 
+CB   CB   C=C    51.240    119.6950 
+CB   CB   OR     69.663    116.4950 
+HCMM C=C  CB     35.335    117.4230 
+HCMM C=C  C=C    38.502    121.0040 
+CB   C=C  C=C    43.035    117.5080 
+C=C  C=C  C=O    39.221    111.2970 
+C=O  C=C  CB     62.466    119.7580 
+C=C  C=O  OR     67.072    106.5100 
+C=C  C=O  O=C    67.360    122.6230 
+OR   C=O  O=C    83.120    124.4250 
+CB   OR   C=O    44.187    95.3000 
+CB   CB   C=O    57.429    114.4750 
+CB   C=O  O=C    52.823    119.9680 
+CB   C=O  NC=O   79.234    112.4950 
+O=C  C=O  NC=O   65.273    127.1520 
+HNCO NC=O C=O    41.380    120.2770 
+HNCO NC=O CB     45.194    118.2270 
+C=O  NC=O CB     73.621    118.5960 
+NC=O CB   CB     73.765    117.9180 
+CB   CB   CLMM   68.367    118.4950 
+CB   OR   CR     77.363    102.8460 
+HCMM CR   HCMM   37.134    108.8360 
+HCMM CR   OR     56.205    108.5770 
+
+DIHEDRALS
+HCMM CR   OR   CB       0.053  3     0.00 
+HCMM CB   CB   CB       3.500  2   180.00 
+HCMM CB   CB   OR       3.500  2   180.00 
+HCMM CB   CB   HCMM     3.500  2   180.00 
+HCMM CB   CB   C=O      1.000  2   180.00 
+HCMM CB   CB   NC=O     3.500  2   180.00 
+HNCO NC=O C=O  CB       3.000  2   180.00 
+HNCO NC=O C=O  O=C      0.718  1     0.00 
+HNCO NC=O C=O  O=C      2.487  2   180.00 
+HNCO NC=O C=O  O=C     -0.227  3     0.00 
+HNCO NC=O CB   CB       3.000  2   180.00 
+HCMM CB   CB   CLMM     3.500  2   180.00 
+HCMM CB   CB   C=C      1.000  2   180.00 
+HCMM C=C  CB   CB       1.000  2   180.00 
+HCMM C=C  C=C  C=O      0.900  2   180.00 
+HCMM C=C  C=C  CB       0.900  2   180.00 
+CB   CB   CB   CB       3.500  2   180.00 
+CB   CB   CB   C=C      1.000  2   180.00 
+CB   CB   CB   OR       3.500  2   180.00 
+CB   CB   C=C  C=C      0.771  2   180.00 
+CB   CB   C=C  C=C      0.217  3     0.00 
+CB   CB   OR   C=O      1.288  2   180.00 
+CB   C=C  C=C  C=O      0.900  2   180.00 
+CB   C=C  C=C  CB       0.900  2   180.00 
+CB   OR   C=O  C=C      2.750  2   180.00 
+CB   OR   C=O  O=C      0.318  1     0.00 
+CB   OR   C=O  O=C      2.945  2   180.00 
+CB   OR   C=O  O=C     -0.223  3     0.00 
+C=C  CB   CB   OR       1.000  2   180.00 
+C=C  C=C  C=O  OR      -0.071  1     0.00 
+C=C  C=C  C=O  OR       0.733  2   180.00 
+C=C  C=C  C=O  O=C      0.181  1     0.00 
+C=C  C=C  C=O  O=C      0.989  2   180.00 
+C=O  C=C  CB   CB       1.000  2   180.00 
+OR   C=O  C=C  CB       1.250  2   180.00 
+O=C  C=O  C=C  CB       1.250  2   180.00 
+CB   CB   CB   C=O      1.000  2   180.00 
+CB   CB   C=O  O=C      1.128  2   180.00 
+CB   CB   C=O  NC=O     1.250  2   180.00 
+CB   C=O  NC=O CB       3.000  2   180.00 
+C=O  NC=O CB   CB       3.000  2   180.00 
+O=C  C=O  NC=O CB       3.000  2   180.00 
+NC=O CB   CB   CB       3.500  2   180.00 
+CB   CB   OR   CR       2.191  2   180.00 
+NC=O CB   CB   OR       3.500  2   180.00 
+C=O  CB   CB   CLMM     1.000  2   180.00 
+CB   CB   CB   CLMM     3.500  2   180.00 
+
+IMPROPER
+CR   OR   HCMM HCMM     0.000  0     0.00 
+CB   CB   OR   CB       3.454  0     0.00 
+CB   CB   CB   HCMM     1.079  0     0.00 
+CB   NC=O CB   CB       2.519  0     0.00 
+NC=O C=O  CB   HNCO    -1.439  0     0.00 
+C=O  CB   NC=O O=C      9.356  0     0.00 
+CB   CB   C=O  CB       1.943  0     0.00 
+CB   CB   CB   C=C      2.231  0     0.00 
+C=C  C=O  CB   C=C      1.439  0     0.00 
+C=C  CB   C=C  HCMM     1.223  0     0.00 
+CB   CB   C=C  CB       2.231  0     0.00 
+CB   CB   CB   OR       3.454  0     0.00 
+C=O  OR   C=C  O=C      9.140  0     0.00 
+CB   CB   CB   NC=O     2.519  0     0.00 
+CB   CB   CB   CLMM     2.519  0     0.00 
+
+NONBONDED nbxmod  5 atom cdiel shift vatom vdistance vswitch - 
+cutnb 14.0 ctofnb 12.0 ctonnb 10.0 eps 1.0 e14fac 1.0 wmin 1.5 
+HCMM    0.000000  -0.022000     1.320000    
+HNCO    0.000000  -0.046000     0.224500    
+CB      0.000000  -0.070000     1.992400    
+C=C     0.000000  -0.068000     2.090000    
+C=O     0.000000  -0.110000     2.000000    
+OR      0.000000  -0.152100     1.770000    
+O=C     0.000000  -0.120000     1.700000   0.000000  -0.120000     1.400000    
+NC=O    0.000000  -0.200000     1.850000   0.000000  -0.200000     1.550000    
+CLMM    0.000000  -0.230000     1.860000    
+CR      0.000000  -0.056000     2.010000   0.000000  -0.010000     1.900000    
+
+

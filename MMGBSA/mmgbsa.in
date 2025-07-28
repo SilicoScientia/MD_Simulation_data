@@ -1,0 +1,12 @@
+&general
+sys_name="Prot-Prot",
+startframe=1, endframe=10000, verbose=2,interval=5,
+/
+&gb
+igb=5, saltcon=0.150,
+/
+#&decomp
+#idecomp=2, dec_verbose=3,
+# This will print all residues that are less than 5 angstroms between
+# the receptor and the ligand
+#print_res="within 5"
